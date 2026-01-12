@@ -1,0 +1,5 @@
+{
+  "name": "support AI",
+  "description": "A robust server support and inventory chatbot that parses Excel/JSON data to provide real-time infrastructure insights and troubleshooting steps using Gemini AI.",
+  "requestFramePermissions": []
+}
